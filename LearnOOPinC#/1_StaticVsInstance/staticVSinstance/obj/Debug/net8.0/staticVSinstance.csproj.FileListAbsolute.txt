@@ -1,0 +1,14 @@
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\bin\Debug\net8.0\staticVSinstance.exe
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\bin\Debug\net8.0\staticVSinstance.deps.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\bin\Debug\net8.0\staticVSinstance.runtimeconfig.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\bin\Debug\net8.0\staticVSinstance.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\bin\Debug\net8.0\staticVSinstance.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.AssemblyInfoInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.AssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.csproj.CoreCompileInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\refint\staticVSinstance.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\staticVSinstance.genruntimeconfig.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnOOPinC#\1_StaticVsInstance\staticVSinstance\obj\Debug\net8.0\ref\staticVSinstance.dll
