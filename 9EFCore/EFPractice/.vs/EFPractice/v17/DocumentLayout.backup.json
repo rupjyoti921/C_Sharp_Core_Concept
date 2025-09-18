@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\migrations\\20250913112025_codefirstaddedstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:migrations\\20250913112025_codefirstaddedstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\migrations\\20250913105154_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:migrations\\20250913105154_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\9efcore\\efpractice\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480780-F3AA-4650-9A8B-E3D9E1D3C6CD}|EFPractice.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Display.cshtml",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "Views\\Home\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T11:45:17.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:41:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250913112025_CodeFirstaddedStandard.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\20250913112025_CodeFirstaddedStandard.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250913112025_CodeFirstaddedStandard.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\20250913112025_CodeFirstaddedStandard.cs",
+              "RelativeToolTip": "Migrations\\20250913112025_CodeFirstaddedStandard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:20:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\StudentDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\StudentDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\StudentDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\StudentDBContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:52:09.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250913105154_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\20250913105154_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250913105154_CodeFirstCreateDB.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Migrations\\20250913105154_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "Migrations\\20250913105154_CodeFirstCreateDB.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:51:55.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:42:45.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T10:37:50.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:24:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\9EFCore\\EFPractice\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T09:38:47.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

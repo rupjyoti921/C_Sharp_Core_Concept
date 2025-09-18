@@ -1,0 +1,67 @@
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\1CreatingFirstMVCProject\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

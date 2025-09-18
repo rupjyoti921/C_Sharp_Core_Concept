@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+    //Layout = "~/Views/Shared/_Layout.cshtml";    // As we are using View Start
+
+}
+
+<h1>Contact Details:</h1>
+<h3>@ViewData["Heading"]</h3>
+<ul>
+    <li>@ViewData["Phone No"]</li>
+    <li>@ViewData["Place"]</li>
+    <li>@ViewData["Pin"]</li>
+    @{
+        foreach (var per in (string[])ViewData["Persons"])
+        {
+            <li>@per</li>
+        }
+    }
+    <br /> and ages are: <br />
+    @{
+        foreach (var age in (List<int>)ViewData["ages"])
+        {
+            <li>@age</li>
+        }
+    }
+</ul>

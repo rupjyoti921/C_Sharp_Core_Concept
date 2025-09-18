@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+    //Layout = "~/Views/Shared/_Layout.cshtml";     // As we are using View Start
+
+}
+
+<h1>About Details:</h1>
+<h3>@ViewBag.Heading</h3>
+<ul>
+    <li>@ViewBag.Phone_No</li>
+    <li>@ViewData["Place"]</li>
+    <li>@ViewBag.Pin</li>
+@{
+    foreach (var per in ViewBag.Persons)
+    {
+            <li>@per</li>
+    }
+}
+    <br /> and ages are:
+    <br />
+@{
+    foreach (var age in ViewBag.ages)
+    {
+            <li>@age</li>
+    }
+}

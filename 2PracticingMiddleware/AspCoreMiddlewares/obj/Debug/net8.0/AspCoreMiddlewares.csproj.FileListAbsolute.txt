@@ -1,0 +1,57 @@
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\appsettings.Development.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\appsettings.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.staticwebassets.endpoints.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.exe
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.deps.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.runtimeconfig.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.AssemblyInfoInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.AssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.csproj.CoreCompileInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.MvcApplicationPartsAssemblyInfo.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\scopedcss\bundle\AspCoreMiddlewares.styles.css
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.development.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.AspCoreMiddlewares.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.AspCoreMiddlewares.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.build.AspCoreMiddlewares.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspCoreMiddlewares.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspCoreMiddlewares.props
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\refint\AspCoreMiddlewares.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.genruntimeconfig.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\ref\AspCoreMiddlewares.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\appsettings.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.staticwebassets.endpoints.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.exe
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.deps.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.runtimeconfig.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\bin\Debug\net8.0\AspCoreMiddlewares.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.AssemblyInfoInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.AssemblyInfo.cs
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.csproj.CoreCompileInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\scopedcss\bundle\AspCoreMiddlewares.styles.css
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\refint\AspCoreMiddlewares.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\AspCoreMiddlewares.genruntimeconfig.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\2PracticingMiddleware\AspCoreMiddlewares\obj\Debug\net8.0\ref\AspCoreMiddlewares.dll

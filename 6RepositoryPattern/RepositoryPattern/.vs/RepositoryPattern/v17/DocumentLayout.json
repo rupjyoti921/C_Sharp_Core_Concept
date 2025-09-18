@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\6repositorypattern\\repositorypattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\6repositorypattern\\repositorypattern\\repository\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|solutionrelative:repository\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\6repositorypattern\\repositorypattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\6repositorypattern\\repositorypattern\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|solutionrelative:repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\6repositorypattern\\repositorypattern\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6D3C9B-763A-4E27-ABA1-21B6B2B1BAD0}|RepositoryPattern.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:44:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClass.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Repository\\DataClass.cs",
+              "RelativeDocumentMoniker": "Repository\\DataClass.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Repository\\DataClass.cs",
+              "RelativeToolTip": "Repository\\DataClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:18:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "Repository\\IStudent.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Repository\\IStudent.cs",
+              "RelativeToolTip": "Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:16:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T05:14:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\6RepositoryPattern\\RepositoryPattern\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:12:53.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1035,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

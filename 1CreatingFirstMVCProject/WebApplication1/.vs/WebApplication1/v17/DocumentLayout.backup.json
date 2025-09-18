@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\1creatingfirstmvcproject\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D411DB8-95EC-4746-8702-D75F5BD110E2}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T04:29:52.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:29:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:34:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T08:10:07.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:14:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\1CreatingFirstMVCProject\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T09:51:25.716Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1035,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
