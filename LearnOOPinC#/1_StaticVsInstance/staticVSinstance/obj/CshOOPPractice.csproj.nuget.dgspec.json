@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {}
+    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {}
   },
   "projects": {
-    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {
+    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
         "projectName": "CshOOPPractice",
-        "projectPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
+        "projectPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
         "packagesPath": "C:\\Users\\rupba\\.nuget\\packages\\",
-        "outputPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\obj\\",
+        "outputPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
