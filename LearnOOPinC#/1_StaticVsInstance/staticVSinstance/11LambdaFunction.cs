@@ -20,7 +20,7 @@ namespace CshOOPPractice
     }
     public class Lambda
     {
-        public static void Main()
+        public static void Main11()
         {
             List < Person > people= new List<Person>()
             {
