@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\12polymorphisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:12polymorphisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\13constantkeyw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:13constantkeyw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\11lambdafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:11lambdafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\14di\\usingdiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:14di\\usingdiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\10genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:10genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\14di\\usingdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:14di\\usingdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\9genericmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:9genericmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\14di\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:14di\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\8delegateslearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:8delegateslearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\7abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:7abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\6employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:6employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\1overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:1overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\5methhiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:5methhiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\3revout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:3revout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\4operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:4operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\2constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:2constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|c:\\users\\baru590\\documents\\selflearning\\1. dontnotevolution\\practicalprojects\\learnaspdotnetcoreyt\\c_sharp_core_concept\\learnoopinc#\\1_staticvsinstance\\staticvsinstance\\14di\\tightcoupling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:14di\\tightcoupling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,172 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12PolyMorphisim.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\12PolyMorphisim.cs",
-              "RelativeDocumentMoniker": "12PolyMorphisim.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\12PolyMorphisim.cs",
-              "RelativeToolTip": "12PolyMorphisim.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwCsAAAAjAAAAAAAAAA==",
+              "Title": "13ConstantKeyW.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\13ConstantKeyW.cs",
+              "RelativeDocumentMoniker": "13ConstantKeyW.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\13ConstantKeyW.cs",
+              "RelativeToolTip": "13ConstantKeyW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T06:25:26.154Z",
+              "WhenOpened": "2025-09-22T16:02:58.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "11LambdaFunction.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\11LambdaFunction.cs",
-              "RelativeDocumentMoniker": "11LambdaFunction.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\11LambdaFunction.cs",
-              "RelativeToolTip": "11LambdaFunction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAAAhAAAAAAAAAA==",
+              "Title": "UsingDIProperty.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\UsingDIProperty.cs",
+              "RelativeDocumentMoniker": "14DI\\UsingDIProperty.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\UsingDIProperty.cs",
+              "RelativeToolTip": "14DI\\UsingDIProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T02:18:14.04Z",
+              "WhenOpened": "2025-09-22T12:43:22.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "10GenericClass.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\10GenericClass.cs",
-              "RelativeDocumentMoniker": "10GenericClass.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\10GenericClass.cs",
-              "RelativeToolTip": "10GenericClass.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBgAAAAhAAAAAAAAAA==",
+              "Title": "UsingDI.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\UsingDI.cs",
+              "RelativeDocumentMoniker": "14DI\\UsingDI.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\UsingDI.cs",
+              "RelativeToolTip": "14DI\\UsingDI.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA9wE4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T18:08:45.574Z"
+              "WhenOpened": "2025-09-22T11:05:25.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "9GenericMethod.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\9GenericMethod.cs",
-              "RelativeDocumentMoniker": "9GenericMethod.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\9GenericMethod.cs",
-              "RelativeToolTip": "9GenericMethod.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBAwBMAAAAgAAAAAAAAAA==",
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\IPayment.cs",
+              "RelativeDocumentMoniker": "14DI\\IPayment.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\IPayment.cs",
+              "RelativeToolTip": "14DI\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T15:05:47.702Z"
+              "WhenOpened": "2025-09-22T11:04:26.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "8DelegatesLearning.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\8DelegatesLearning.cs",
-              "RelativeDocumentMoniker": "8DelegatesLearning.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\8DelegatesLearning.cs",
-              "RelativeToolTip": "8DelegatesLearning.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwB0AAAAgAAAAAAAAAA==",
+              "Title": "TightCoupling.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\TightCoupling.cs",
+              "RelativeDocumentMoniker": "14DI\\TightCoupling.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\14DI\\TightCoupling.cs",
+              "RelativeToolTip": "14DI\\TightCoupling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T18:11:06.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "7Abstract.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\7Abstract.cs",
-              "RelativeDocumentMoniker": "7Abstract.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\7Abstract.cs",
-              "RelativeToolTip": "7Abstract.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA4wDkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:26:49.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "6Employee.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\6Employee.cs",
-              "RelativeDocumentMoniker": "6Employee.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\6Employee.cs",
-              "RelativeToolTip": "6Employee.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAABCwCcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T03:16:08.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\Interface\\IEmployee.cs",
-              "RelativeDocumentMoniker": "Interface\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\Interface\\IEmployee.cs",
-              "RelativeToolTip": "Interface\\IEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T03:10:15.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "1Overriding.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\1Overriding.cs",
-              "RelativeDocumentMoniker": "1Overriding.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\1Overriding.cs",
-              "RelativeToolTip": "1Overriding.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwCAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:16:35.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "5MethHiding.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\5MethHiding.cs",
-              "RelativeDocumentMoniker": "5MethHiding.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\5MethHiding.cs",
-              "RelativeToolTip": "5MethHiding.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAywBIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T15:50:53.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "4OperatorOverloading.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\4OperatorOverloading.cs",
-              "RelativeDocumentMoniker": "4OperatorOverloading.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\4OperatorOverloading.cs",
-              "RelativeToolTip": "4OperatorOverloading.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T13:43:42.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "3RevOut.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\3RevOut.cs",
-              "RelativeDocumentMoniker": "3RevOut.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\3RevOut.cs",
-              "RelativeToolTip": "3RevOut.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIBAwBoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T16:20:59.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "2Constructor.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\2Constructor.cs",
-              "RelativeDocumentMoniker": "2Constructor.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\2Constructor.cs",
-              "RelativeToolTip": "2Constructor.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAywAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:48:37.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA1wDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T07:01:25.867Z"
+              "WhenOpened": "2025-09-22T09:21:16.509Z",
+              "EditorCaption": ""
             }
           ]
         },
