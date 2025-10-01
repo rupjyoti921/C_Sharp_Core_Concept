@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CshOOPPractice.const
+namespace CshOOPPractice.constPractice
 {
     public class ConstantKeyW
     {
@@ -13,7 +13,7 @@ namespace CshOOPPractice.const
 
     public class ProgramConst
     {
-        public static void Main()
+        public static void Main14()
         {
             Console.WriteLine($"{ConstantKeyW.a}");
         }

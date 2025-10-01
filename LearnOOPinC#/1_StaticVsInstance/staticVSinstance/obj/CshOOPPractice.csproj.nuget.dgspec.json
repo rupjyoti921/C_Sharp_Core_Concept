@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {}
+    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {
+    "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
         "projectName": "CshOOPPractice",
-        "projectPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
-        "packagesPath": "C:\\Users\\BaRu590\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\1. DontNotEvolution\\PracticalProjects\\LearnAspDotNetCoreYT\\C_Sharp_Core_Concept\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\obj\\",
+        "projectPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\CshOOPPractice.csproj",
+        "packagesPath": "C:\\Users\\rupba\\.nuget\\packages\\",
+        "outputPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\1_StaticVsInstance\\staticVSinstance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BaRu590\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rupba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
