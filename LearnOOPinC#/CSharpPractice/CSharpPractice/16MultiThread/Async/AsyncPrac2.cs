@@ -31,7 +31,7 @@ namespace CshOOPPractice._16MultiThread.Async
             return "Score : 234, Over : 45.6";
         }
 
-        public static async Task Main()
+        public static async Task MainAP()
         {
             AsyncPrac2 ap = new AsyncPrac2();
             //Approach 1
