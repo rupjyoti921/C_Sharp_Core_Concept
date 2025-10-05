@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\learnoopinc#\\csharppractice\\csharppractice\\18progresscallback\\2pcbmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:18progresscallback\\2pcbmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\learnoopinc#\\csharppractice\\csharppractice\\18progresscallback\\1pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:18progresscallback\\1pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\practicalprojects\\learnaspdotnetcoreyt\\learnoopinc#\\csharppractice\\csharppractice\\17events\\3event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FBD6E3A-DE74-4707-B767-66FB4FCC93F9}|CshOOPPractice.csproj|solutionrelative:17events\\3event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2PCBManual.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\18ProgressCallBack\\2PCBManual.cs",
+              "RelativeDocumentMoniker": "18ProgressCallBack\\2PCBManual.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\18ProgressCallBack\\2PCBManual.cs",
+              "RelativeToolTip": "18ProgressCallBack\\2PCBManual.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:21:24.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1PCB.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\18ProgressCallBack\\1PCB.cs",
+              "RelativeDocumentMoniker": "18ProgressCallBack\\1PCB.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\18ProgressCallBack\\1PCB.cs",
+              "RelativeToolTip": "18ProgressCallBack\\1PCB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:56:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "3Event.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\17Events\\3Event.cs",
               "RelativeDocumentMoniker": "17Events\\3Event.cs",
               "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\17Events\\3Event.cs",
               "RelativeToolTip": "17Events\\3Event.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA1wC0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T05:16:07.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "2event.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\17Events\\2event.cs",
               "RelativeDocumentMoniker": "17Events\\2event.cs",
@@ -72,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "1Event.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\17Events\\1Event.cs",
               "RelativeDocumentMoniker": "17Events\\1Event.cs",
@@ -80,12 +114,11 @@
               "RelativeToolTip": "17Events\\1Event.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAywCoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T04:55:30.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T04:55:30.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AsyncPrac2.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\16MultiThread\\Async\\AsyncPrac2.cs",
               "RelativeDocumentMoniker": "16MultiThread\\Async\\AsyncPrac2.cs",
@@ -93,12 +126,11 @@
               "RelativeToolTip": "16MultiThread\\Async\\AsyncPrac2.cs",
               "ViewState": "AgIAABYAAAAAAAAAAIA2wCEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T07:22:43.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:22:43.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Async.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\16MultiThread\\Async\\Async.cs",
               "RelativeDocumentMoniker": "16MultiThread\\Async\\Async.cs",
@@ -110,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TaskThread.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\16MultiThread\\Task\\TaskThread.cs",
               "RelativeDocumentMoniker": "16MultiThread\\Task\\TaskThread.cs",
@@ -118,12 +150,11 @@
               "RelativeToolTip": "16MultiThread\\Task\\TaskThread.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:17:06.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T12:17:06.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "bgThread.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\16MultiThread\\ThreadClass\\bgThread.cs",
               "RelativeDocumentMoniker": "16MultiThread\\ThreadClass\\bgThread.cs",
@@ -135,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ThreadClassPra.cs",
               "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\PracticalProjects\\LearnAspDotNetCoreYT\\LearnOOPinC#\\CSharpPractice\\CSharpPractice\\16MultiThread\\ThreadClass\\ThreadClassPra.cs",
               "RelativeDocumentMoniker": "16MultiThread\\ThreadClass\\ThreadClassPra.cs",

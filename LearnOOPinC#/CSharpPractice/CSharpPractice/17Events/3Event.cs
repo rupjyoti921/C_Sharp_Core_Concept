@@ -39,7 +39,7 @@ namespace CshOOPPractice._17Events
         {
             Console.WriteLine($"Event Triger with Parameter MSG : {cEv.Msg}");
         }
-        public static void Main()
+        public static void MainEv3()
         {
             Publisher pb= new Publisher();
             pb.CustomEv += EventPra.Subscrb;
