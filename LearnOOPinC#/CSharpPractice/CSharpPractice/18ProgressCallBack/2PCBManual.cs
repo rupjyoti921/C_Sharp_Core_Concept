@@ -8,7 +8,7 @@ namespace CshOOPPractice._18ProgressCallBack
 {
     public class _2PCBManual
     {
-        public static void Main()
+        public static void Main3()
         {
             Action<int> progressReport = percent => { Console.Write($"\rPercentage : {percent}%"); };
             UpdateProgress(progressReport);
