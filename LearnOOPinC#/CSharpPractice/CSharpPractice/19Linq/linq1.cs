@@ -75,6 +75,14 @@ namespace CshOOPPractice._19Linq
             //var emps5 = employees.OrderByDescending(x => x.EmpSalary);
             //Console.WriteLine($"{emps5.EmpID}\n{emps5.EmpName}\n{emps5.EmpDesg}\n{emps5.EmpSalary}\n{emps5.EmpAdd}");
 
+            //****** Element Operator - First(), FirstorDefault()
+            Console.WriteLine($"\n---------------\n Element Operator - First(), FirstorDefault()\n");
+            //var emps5 = employees.First();  //It will Return the First obj form the List
+            var emps5 = employees.FirstOrDefault(x => x.EmpAdd == "Nagaon"); //It iterates through the collection, As soon as it finds an employee where EmpAdd == "Guwahati", it stops and returns that object.
+            emp = emps5;
+            emp = employees.ElementAt(3);  //Returns the element at the given index (0-based index)
+            Console.WriteLine($"{emp.EmpID}\n{emp.EmpName}\n{emp.EmpDesg}\n{emp.EmpSalary}\n{emp.EmpAdd}");
+
         }
 
 
