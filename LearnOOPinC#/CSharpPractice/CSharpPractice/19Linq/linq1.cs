@@ -83,6 +83,26 @@ namespace CshOOPPractice._19Linq
             emp = employees.ElementAt(3);  //Returns the element at the given index (0-based index)
             Console.WriteLine($"{emp.EmpID}\n{emp.EmpName}\n{emp.EmpDesg}\n{emp.EmpSalary}\n{emp.EmpAdd}");
 
+            //******* Skip(n) - Skip first n element from the list of objects and return rest, and Take(n) - Take first n element from the list and skip rest
+            Console.WriteLine("\n------------------\n Partitioning — Skip(), Take()");
+            //var emp6 = employees.Take(5);
+            var emp6 = employees.Skip(8);
+            foreach (var TempEmp in emp6)
+            {
+                Console.WriteLine($"{TempEmp.EmpID}\n{TempEmp.EmpName}\n{TempEmp.EmpDesg}\n{TempEmp.EmpSalary}\n{TempEmp.EmpAdd}\n");
+            }
+
+            //********* Aggregation  Sum(), Average(), Max(), Min()
+            Console.WriteLine("\n------------------------\nAggregation  Sum(), Average(), Max(), Min()\n");
+            long toatlSalary = employees.Sum(x=>x.EmpSalary);
+            Console.WriteLine($"Total Salary : {toatlSalary}");
+            Console.WriteLine($"Average Salary : {employees.Average(e=>e.EmpSalary)}");
+            Console.WriteLine($"Max Salary : {employees.Max(e => e.EmpSalary)}");
+            Console.WriteLine($"Min Salary : {employees.Min(e => e.EmpSalary)}");
+
+
+
+
         }
 
 

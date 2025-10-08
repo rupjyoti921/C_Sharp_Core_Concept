@@ -57,3 +57,18 @@ D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\Le
 D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.pdb
 D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.genruntimeconfig.cache
 D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\LearnAspDotNetCoreYT\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\ref\CshOOPPractice.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\bin\Debug\net8.0\CshOOPPractice.exe
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\bin\Debug\net8.0\CshOOPPractice.deps.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\bin\Debug\net8.0\CshOOPPractice.runtimeconfig.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\bin\Debug\net8.0\CshOOPPractice.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\bin\Debug\net8.0\CshOOPPractice.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.AssemblyInfoInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.AssemblyInfo.cs
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.sourcelink.json
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\refint\CshOOPPractice.dll
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.pdb
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\CshOOPPractice.genruntimeconfig.cache
+C:\Users\BaRu590\Documents\SelfLearning\1. DontNotEvolution\PracticalProjects\LearnAspDotNetCoreYT\C_Sharp_Core_Concept\LearnOOPinC#\CSharpPractice\CSharpPractice\obj\Debug\net8.0\ref\CshOOPPractice.dll
