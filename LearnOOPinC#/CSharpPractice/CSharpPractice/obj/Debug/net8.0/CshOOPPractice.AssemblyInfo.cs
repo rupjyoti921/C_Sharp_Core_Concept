@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CshOOPPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76e25e4c5551ab546eef2f3311bef7b9c92ba44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e711dab0bcc29ea44d348080b90e3bca658aded")]
 [assembly: System.Reflection.AssemblyProductAttribute("CshOOPPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CshOOPPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

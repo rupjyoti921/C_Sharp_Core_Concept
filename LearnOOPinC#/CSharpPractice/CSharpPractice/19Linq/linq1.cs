@@ -101,6 +101,16 @@ namespace CshOOPPractice._19Linq
             Console.WriteLine($"Min Salary : {employees.Min(e => e.EmpSalary)}");
 
 
+            //********  2nd Highest Salaray
+            Console.WriteLine("\n-------------------------------------------\n2nd Highest salary\n");
+            //var emp7 = employees.OrderByDescending(e => e.EmpSalary);
+            //var emp71 = emp7.Select(x => x.EmpSalary).Distinct();
+            //var emp72 = emp71.Skip(1).Take(1);
+
+            //var SndHSalary = employees.OrderByDescending(e => e.EmpSalary).Select(e => e.EmpSalary).Distinct().Skip(1).ElementAt(0);
+            var SndHSalary = employees.OrderByDescending(e => e.EmpSalary).Select(e => e.EmpSalary).Distinct().Skip(1).Take(1);  // It will retrun a list of a single elemetn, so we need to access SndHSalary.First() like this, but ElementAt(0) will directly return the element.
+            Console.WriteLine($"2nd Highest Salary : {SndHSalary.First()}");
+
 
 
         }
